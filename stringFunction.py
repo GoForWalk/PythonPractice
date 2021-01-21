@@ -16,7 +16,7 @@ print(index)
 
 print(python.find("n"))
 
-print(python.find("Java")) # find : 찾고자 하는 문자열이 없는 경우 : -1 return
+print(python.find("Python")) # find : 찾고자 하는 문자열이 없는 경우 : -1 return
 # print(python.index("Java")) # index : 찾고자 하는 문자열이 없는 경우 :  오류발생
 
 print(python.count("n"))
